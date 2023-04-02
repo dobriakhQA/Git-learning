@@ -6,4 +6,5 @@ git merge Мержити – об’єднувати гілки.
 git cherrypick  enables arbitrary Git commits to be picked by reference and appended to the current working HEAD.
 git status  для определения, какие файлы в каком состоянии находятся
 git history To view the history of a file in Git, you can use the git log command
-git diff Diffing is a function that takes two input data sets and outputs the changes between them
+git diff Diffing is a function that takes two input data sets and outputs the changes between them.
+gitignore
