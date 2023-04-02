@@ -1,0 +1,9 @@
+git add, takes a modified file in your working directory and places the modified version in a staging area. 
+git commit takes everything from the staging area and makes a permanent snapshot of the current state of your repository that is associated with a unique identifier.
+git push is used to upload local repository content to a remote repository.
+git rebase, Rebasing is the process of moving or combining a sequence of commits to a new base commit
+git merge Мержити – об’єднувати гілки.
+git cherrypick  enables arbitrary Git commits to be picked by reference and appended to the current working HEAD.
+git status  для определения, какие файлы в каком состоянии находятся
+git history To view the history of a file in Git, you can use the git log command
+git diff Diffing is a function that takes two input data sets and outputs the changes between them
