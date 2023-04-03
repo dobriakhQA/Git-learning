@@ -1,1 +1,6 @@
 git clone <URL>
+git add
+git status
+git commit
+git push
+git pull
