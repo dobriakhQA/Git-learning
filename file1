@@ -1,7 +1,11 @@
 file1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 changes task10_
 changes task 10a and stash
 
 >>>>>>> Stashed changes
+=======
+changes task10_
+>>>>>>> 2fc8223ae3bd5a932d2e047a0e16509aacea35d6
