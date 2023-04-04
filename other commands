@@ -7,4 +7,6 @@
 7. git status  
 8. git history To view the history of a file in Git, you can use the git log command
 9. git diff Diffing is a function that takes two input data sets and outputs the changes between them.
+10. git stash
+
 
